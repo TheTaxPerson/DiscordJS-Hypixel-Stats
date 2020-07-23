@@ -19,6 +19,9 @@ Change your values inside config.json to match your own.
 ```sh
 node index
 ```
+
+##Special Thanks
+Special thanks to [@Anomanolis](https://instagram.com/anomanolis) for helping me make the visual element of the bot eye appealing
 ## Media
 
 Twitter – [@TheTaxPerson](https://twitter.com/TheTaxPerson)
