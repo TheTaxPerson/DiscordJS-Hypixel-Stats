@@ -1,0 +1,27 @@
+{
+  "name": "hypixelstats",
+  "version": "1.0.0",
+  "description": "A discord bot that tracks your Hypixel stats",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTaxPerson/Hypixel-Stats.git"
+  },
+  "author": "TheTaxPerson",
+  "license": "TheTaxPerson",
+  "bugs": {
+    "url": "https://github.com/TheTaxPerson/Hypixel-Stats/issues"
+  },
+  "homepage": "https://github.com/TheTaxPerson/Hypixel-Stats#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "hypixel-api-reborn": "^2.1.7"
+  }
+}
