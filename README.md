@@ -20,7 +20,7 @@ Change your values inside config.json to match your own.
 node index
 ```
 
-##Special Thanks
+## Special Thanks
 Special thanks to [@Anomanolis](https://instagram.com/anomanolis) for helping me make the visual element of the bot eye appealing
 ## Media
 
